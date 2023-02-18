@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chriswells0&include_all_commits=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue&include_all_commits=true&show_icons=true" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&hide_progress=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&hide_progress=true" />
 </p>
