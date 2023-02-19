@@ -32,10 +32,30 @@ References and more ideas:
 
 <div id="stats" align="center">
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue&include_all_commits=true&show_icons=true" />
+        <picture>
+            <source 
+              srcset="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue-dark&include_all_commits=true&show_icons=true"
+              media="(prefers-color-scheme: dark)"
+            />
+            <source
+              srcset="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue&include_all_commits=true&show_icons=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue&include_all_commits=true&show_icons=true" />
+        </picture>
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&hide_progress=true" />
+        <picture>
+            <source 
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue-dark&hide_progress=true"
+              media="(prefers-color-scheme: dark)"
+            />
+            <source
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&hide_progress=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&hide_progress=true" />
+        </picture>
     </p>
 </div>
 
