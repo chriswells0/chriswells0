@@ -35,7 +35,7 @@ jobs:
           plugin_achievements_threshold: C
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_types: commit
+          plugin_notable_types: commit,pull_request
           plugin_rss: yes
           plugin_rss_limit: 5
           plugin_rss_source: https://chriswells.io/blog?format=atom
