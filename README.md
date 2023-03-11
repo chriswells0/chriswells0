@@ -47,14 +47,14 @@ References and more ideas:
     <p>
         <picture>
             <source 
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue-dark&hide_progress=true"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue-dark&langs_count=10&layout=compact"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&hide_progress=true"
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&langs_count=10&layout=compact"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&hide_progress=true" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&langs_count=10&layout=compact" />
         </picture>
     </p>
 </div>
