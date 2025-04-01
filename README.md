@@ -26,7 +26,6 @@ References and more ideas:
     <p>
     <a rel="me" href="https://chriswells.io" title="Visit my website"><img src="https://img.shields.io/badge/ChrisWells.io-my%20website-blue" /></a>
     <a rel="me" href="https://indiehackers.social/@cw" title="Follow me on Mastodon"><img src="https://img.shields.io/mastodon/follow/112979679343416582?domain=https%3A%2F%2Findiehackers.social" /></a>
-    <a rel="me" href="https://twitter.com/chriswells0" title="Follow me on Twitter"><img src="https://img.shields.io/twitter/follow/chriswells0?style=social" /></a>
     <a rel="me" href="https://www.linkedin.com/in/chriswells0" title="Connect with me on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
     </p>
 </div>
@@ -70,7 +69,6 @@ References and more ideas:
     <p>
     <a rel="me" href="https://chriswells.io" title="Visit my website"><img src="https://img.shields.io/badge/ChrisWells.io-my%20website-blue" /></a>
     <a rel="me" href="https://indiehackers.social/@cw" title="Follow me on Mastodon"><img src="https://img.shields.io/mastodon/follow/112979679343416582?domain=https%3A%2F%2Findiehackers.social" /></a>
-    <a rel="me" href="https://twitter.com/chriswells0" title="Follow me on Twitter"><img src="https://img.shields.io/twitter/follow/chriswells0?style=social" /></a>
     <a rel="me" href="https://www.linkedin.com/in/chriswells0" title="Connect with me on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
     </p>
 </div>
