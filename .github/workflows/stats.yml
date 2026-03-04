@@ -1,9 +1,12 @@
-name: Update README cards
+name: Stats
 
 on:
   schedule:
     - cron: "0 3 * * 0"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -48,5 +51,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update stats images" || exit 0
           git push
