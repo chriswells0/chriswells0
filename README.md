@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 References and more ideas:
 
 * https://github.com/anuraghazra/github-readme-stats
-* https://github.com/lowlighter/metrics
+* https://github.com/gh-metrics/metrics
 * Add recent blog posts: https://www.sitepoint.com/github-profile-readme/
 -->
 
@@ -33,28 +33,28 @@ References and more ideas:
 <div id="stats" align="center">
     <p>
         <picture>
-            <source 
-              srcset="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue-dark&include_all_commits=true&show_icons=true"
+            <source
+              srcset="./profile/stats-dark.svg"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue&include_all_commits=true&show_icons=true"
+              srcset="./profile/stats-light.svg"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats.vercel.app/api?username=chriswells0&theme=vue&include_all_commits=true&show_icons=true" />
+            <img src="./profile/stats-light.svg" />
         </picture>
     </p>
     <p>
         <picture>
-            <source 
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue-dark&langs_count=10&layout=compact"
+            <source
+              srcset="./profile/top-langs-dark.svg"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&langs_count=10&layout=compact"
+              srcset="./profile/top-langs-light.svg"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriswells0&theme=vue&langs_count=10&layout=compact" />
+            <img src="./profile/top-langs-light.svg" />
         </picture>
     </p>
 </div>
