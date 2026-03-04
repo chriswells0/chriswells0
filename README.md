@@ -25,6 +25,7 @@ References and more ideas:
 <div id="contact-top" align="center">
     <p>
     <a rel="me" href="https://chriswells.io" title="Visit my website"><img src="https://img.shields.io/badge/ChrisWells.io-my%20website-blue" /></a>
+    <a rel="me" href="https://bsky.app/profile/chriswells0.bsky.social" title="Follow me on Bluesky"><img src="https://img.shields.io/bluesky/followers/chriswells0.bsky.social" /></a>
     <a rel="me" href="https://indiehackers.social/@cw" title="Follow me on Mastodon"><img src="https://img.shields.io/mastodon/follow/112979679343416582?domain=https%3A%2F%2Findiehackers.social" /></a>
     <a rel="me" href="https://www.linkedin.com/in/chriswells0" title="Connect with me on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
     </p>
@@ -68,6 +69,7 @@ References and more ideas:
 <div id="contact-bottom" align="center">
     <p>
     <a rel="me" href="https://chriswells.io" title="Visit my website"><img src="https://img.shields.io/badge/ChrisWells.io-my%20website-blue" /></a>
+    <a rel="me" href="https://bsky.app/profile/chriswells0.bsky.social" title="Follow me on Bluesky"><img src="https://img.shields.io/bluesky/followers/chriswells0.bsky.social" /></a>
     <a rel="me" href="https://indiehackers.social/@cw" title="Follow me on Mastodon"><img src="https://img.shields.io/mastodon/follow/112979679343416582?domain=https%3A%2F%2Findiehackers.social" /></a>
     <a rel="me" href="https://www.linkedin.com/in/chriswells0" title="Connect with me on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
     </p>
